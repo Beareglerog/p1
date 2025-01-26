@@ -83,6 +83,7 @@ To https://github.com/Bearglerog/p1
 A continuación, he usado este comando para subir el archivo y otros cambios confirmados al repositorio remoto en la rama principal main.
 
 ## git checkout 
+
 **git checkout -b feature/1**
 **git checkout main**
 
