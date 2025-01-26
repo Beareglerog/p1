@@ -2,8 +2,8 @@
 
 ### Enlaces a ficheros usados
 
-[PDF explicación comandos](./git.pdf)
-[PDF requisitos de entorno](./entorno.pdf)
+[PDF explicación comandos](git.pdf)
+[PDF requisitos de entorno](entorno.pdf)
 
 ## Comandos
 
